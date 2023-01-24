@@ -4,8 +4,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("bye world!");
         //erweitern
-        //erw 2
-        //erw3
+
 
     }
 }
